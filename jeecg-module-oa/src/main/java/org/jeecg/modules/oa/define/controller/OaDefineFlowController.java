@@ -192,7 +192,7 @@ public class OaDefineFlowController extends JeecgController<OaDefineFlow, IOaDef
 	 /**
 	  *  配置新版本
 	  *
-	  * @param id
+	  * @param oaDefineFlow
 	  * @return
 	  */
 	 @AutoLog(value = "流程定义-配置新版本")

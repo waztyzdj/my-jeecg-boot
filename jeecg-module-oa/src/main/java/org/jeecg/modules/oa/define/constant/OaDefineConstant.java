@@ -21,4 +21,19 @@ public class OaDefineConstant {
      * 流程状态-新版本编辑状态：2
      */
     public static final String OA_DEFINE_FLOW_STATUS_NEW_EDIT = "2";
+
+    /**
+     * 表单状态-编辑状态：0
+     */
+    public static final String OA_DEFINE_FORM_STATUS_EDIT = "0";
+
+    /**
+     * 表单状态-发布状态：1
+     */
+    public static final String OA_DEFINE_FORM_STATUS_AUDITED = "1";
+
+    /**
+     * 表单状态-新版本编辑状态：2
+     */
+    public static final String OA_DEFINE_FORM_STATUS_NEW_EDIT = "2";
 }
